@@ -1,10 +1,10 @@
 <img src="https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif" />
 <h1 align="center">Hi 👋, I'm Aksh Usrathe</h1>
-<h3 align="center">A CS guy right now proficient in Frontend Tech and languages namely C/C++.</h3>
+<h3 align="center">A CS guy right now proficient in CORE JAVA PROGRAMMING , SPRINGBOOT, Frontend Tech and languages namely C/C++.</h3>
 <img align="right" src="https://img95.lovepik.com/photo/40105/1581.gif_wh860.gif" alt="Programmer" width="300"/>
 
 
-- 🌱 I’m currently learning **Core Java Programming**
+- 🌱 I’m currently learning on towards the DevOps
 
 - 📫 How to reach me **akshusrathe007@gmail.com**
 
